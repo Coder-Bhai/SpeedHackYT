@@ -1,0 +1,13 @@
+📋 How to Install the Extension:
+
+1 open your browser:
+2 open extension page in your browser by pastin url given below in url search box of your browser:
+	1. Chrome	: chrome://extensions/
+	2. Edge		: edge://extensions/
+	3. Brave	: brave://extensions/
+	4. Opera	: opera://extensions/
+3. Turn ON "Developer Mode".
+4. Click the "Load unpacked" button.
+5. Select the 'extension' folder provided.
+
+Done! Your extension is now installed 🎉

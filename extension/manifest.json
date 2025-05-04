@@ -1,0 +1,44 @@
+{
+    "manifest_version": 3,
+    "name": "Video Speed Unlocker",
+    "version": "1.0",
+    "description": "Increase video speed beyond YouTube's limit using Alt + shortcuts.",
+    "permissions": [
+      "scripting",
+      "activeTab",
+      "commands"
+    ],
+    "host_permissions": [
+      "https://www.youtube.com/*"
+    ],
+    "background": {
+      "service_worker": "background.js"
+    },
+    "commands": {
+      "increase-speed": {
+        "suggested_key": {
+          "default": "Alt+Up"
+        },
+        "description": "Increase playback speed by 0.25x"
+      },
+      "decrease-speed": {
+        "suggested_key": {
+          "default": "Alt+Down"
+        },
+        "description": "Decrease playback speed by 0.25x"
+      },
+      "speed-1x": {
+        "suggested_key": {
+          "default": "Alt+Z"
+        },
+        "description": "Set playback speed to 1x"
+      },
+      "speed-10x": {
+        "suggested_key": {
+          "default": "Alt+X"
+        },
+        "description": "Set playback speed to 10x"
+      }
+    }
+  }
+  
