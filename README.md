@@ -1,4 +1,5 @@
-# 🎬 Video Speed Unlocker
+# 🎬 SpeedHackYT (Video Speed Controller+)
+
 
 A lightweight Chrome extension that lets you bypass YouTube's default speed limits and control video playback using keyboard shortcuts.
 
