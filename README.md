@@ -34,7 +34,7 @@ A lightweight Chrome extension that lets you bypass YouTube's default speed limi
 
 - `manifest.json`: Extension configuration
 - `background.js`: Handles command events and video playback control
-- `.gitignore`: Ensures unnecessary files aren’t pushed to GitHub
+- `HowToInstall.txt`: A Complete Guide to Install this Extension
 
 ## 🔒 Permissions
 
