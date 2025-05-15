@@ -2,6 +2,9 @@
 
 **SpeedHackYT** is a lightweight and powerful Chrome extension that unlocks full control over YouTube video playback speed. Go beyond the default 2x limit, boost your learning speed, or slow down for precision—using quick and simple keyboard shortcuts.
 
+> ## 🔥 New Version is HERE: [Universal-Video-Speed-Unlocker](https://github.com/Coder-Bhai/Universal-Video-Speed-Unlocker) (Works on all type of videos) (Advanced video speed controller)
+>> short desctription: A lightweight Chrome extension that boosts video playback speed beyond limits on any website, including those with embedded iframes (e.g., YouTube, PW, Coursera, etc). Control the speed with simple Alt + keyboard shortcuts. Boost video playback speed on any website (even inside iframes) using Alt + keyboard shortcuts.
+
 ---
 
 ## ✨ Features
